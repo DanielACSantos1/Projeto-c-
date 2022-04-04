@@ -1,0 +1,10 @@
+C:\Users\Daniel\Documents\GitHub\Projeto-c-\Cadastro de Alunos\bin\Debug\Cadastro de Alunos.exe.config
+C:\Users\Daniel\Documents\GitHub\Projeto-c-\Cadastro de Alunos\bin\Debug\Cadastro de Alunos.exe
+C:\Users\Daniel\Documents\GitHub\Projeto-c-\Cadastro de Alunos\bin\Debug\Cadastro de Alunos.pdb
+C:\Users\Daniel\Documents\GitHub\Projeto-c-\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.csproj.AssemblyReference.cache
+C:\Users\Daniel\Documents\GitHub\Projeto-c-\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\Documents\GitHub\Projeto-c-\Cadastro de Alunos\obj\Debug\Cadastro_de_Alunos.Properties.Resources.resources
+C:\Users\Daniel\Documents\GitHub\Projeto-c-\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.csproj.GenerateResource.cache
+C:\Users\Daniel\Documents\GitHub\Projeto-c-\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\GitHub\Projeto-c-\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.exe
+C:\Users\Daniel\Documents\GitHub\Projeto-c-\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.pdb
